@@ -10,11 +10,15 @@ This code is implementing a Taylor series for ln(x+1).
 
 ln(x+1)的微分：1/(x+1)
 
-根據等比級數的規則可以得知1/(x+1)轉換成級數為：∑_(n=0)^∞▒〖〖(-1)〗^n x^n 〗
+根據等比級數的規則可以得知1/(x+1)轉換成級數為：
 
 
 <img width="111" alt="image" src="https://github.com/LoTzuChin/only_one-taylor_series/assets/115769579/36a481b1-f5fd-495c-b94d-e75ed0e53242">
 
-根據上述級數，推出ln(x+1)的級數
+根據上述級數，推出ln(x+1)的級數：
+
+
+<img width="575" alt="image" src="https://github.com/LoTzuChin/only_one-taylor_series/assets/115769579/c20ef2b5-cfa2-40dc-a72c-5d8a35eff61a">
+
 
 
